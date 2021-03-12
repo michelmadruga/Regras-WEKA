@@ -1,0 +1,359 @@
+Dataset Sintético
+
+	DecisionTable (Chave) - SBOX 1
+
+Número de regras: 500
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 173
+Mérito do melhor subconjunto encontrado: 0
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 2,3,4,6,8,1
+
+-----------------------------------------------------------
+
+	DecisionTable (Chave) - SBOX 2
+
+Número de regras: 500
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 173
+Mérito do melhor subconjunto encontrado: 0
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 1,4,5,6,7,2
+
+-----------------------------------------------------------
+
+	DecisionTable (Chave) - SBOX 3
+
+Número de regras: 500
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 190
+Mérito do melhor subconjunto encontrado: 0
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 1,2,4,5,6,3
+
+-----------------------------------------------------------
+
+	DecisionTable (Chave) - SBOX 4
+
+Número de regras: 500
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 173
+Mérito do melhor subconjunto encontrado: 0
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 1,2,5,6,7,4
+
+-----------------------------------------------------------
+
+	DecisionTable (Chave) - SBOX 5
+
+Número de regras: 500
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 191
+Mérito do melhor subconjunto encontrado: 0
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 1,2,4,6,8,5
+
+-----------------------------------------------------------
+	
+	DecisionTable (Chave) - SBOX 6
+
+Número de regras: 500
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 173
+Mérito do melhor subconjunto encontrado: 0
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 1,2,3,4,5,6
+
+-----------------------------------------------------------
+
+	DecisionTable (Chave) - SBOX 7
+
+Número de regras: 500
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 173
+Mérito do melhor subconjunto encontrado: 0
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 2,3,4,5,8,7
+
+-----------------------------------------------------------
+
+	DecisionTable (Chave) - SBOX 8
+
+Número de regras: 500
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 174
+Mérito do melhor subconjunto encontrado: 0
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 1,2,5,6,7,8
+
+-----------------------------------------------------------
+
+	DecisionTable (Entrada) - SBOX 1
+
+Número de regras: 22139
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 217
+Mérito do melhor subconjunto encontrado: 13.061
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 2,3,5,7,8,16,24,9
+
+-----------------------------------------------------------
+
+	DecisionTable (Entrada) - SBOX 2
+
+Número de regras: 20595
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 255
+Mérito do melhor subconjunto encontrado: 14.063
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 1,2,4,5,8,9,17,10
+
+-----------------------------------------------------------
+
+	DecisionTable (Entrada) - SBOX 3
+
+Número de regras: 21356
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 217
+Mérito do melhor subconjunto encontrado: 14,117
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 1,2,4,5,7,10,18,11
+
+-----------------------------------------------------------
+	
+	DecisionTable (Entrada) - SBOX 4
+
+Número de regras: 21223
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 217
+Mérito do melhor subconjunto encontrado: 14.105
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 1,2,3,5,8,11,19,12
+
+-----------------------------------------------------------
+
+	DecisionTable (Entrada) - SBOX 5
+
+Número de regras: 21829
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 257
+Mérito do melhor subconjunto encontrado: 13.634
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 2,4,6,7,8,12,20,13
+
+-----------------------------------------------------------
+
+	DecisionTable (Entrada) - SBOX 6
+
+Número de regras: 21013
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 256
+Mérito do melhor subconjunto encontrado: 13,119
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 1,4,5,6,8,13,21,14
+
+-----------------------------------------------------------
+
+	DecisionTable (Entrada) - SBOX 7
+
+Número de regras: 21590
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 237
+Mérito do melhor subconjunto encontrado: 14.013
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 1,2,3,6,8,14,22,15
+
+-----------------------------------------------------------
+
+	DecisionTable (Entrada) - SBOX 8
+
+Número de regras: 21778
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 255
+Mérito do melhor subconjunto encontrado: 13.631
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 4,5,6,7,8,15,23,16
+
+-----------------------------------------------------------
+
+	DecisionTable (Saída) - SBOX 1
+
+Número de regras: 1
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 111
+Mérito do melhor subconjunto encontrado: 4.598
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 17
+
+-----------------------------------------------------------
+
+	DecisionTable (Saída) - SBOX 2
+
+Número de regras: 1000
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 230
+Mérito do melhor subconjunto encontrado: 4.553
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 2,10,11,18
+
+-----------------------------------------------------------
+
+	DecisionTable (Saída) - SBOX 3
+
+Número de regras: 1000
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 273
+Mérito do melhor subconjunto encontrado: 4.543
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 3,11,12,19
+
+-----------------------------------------------------------
+
+	DecisionTable (Saída) - SBOX 4
+
+Número de regras: 1000
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 165
+Mérito do melhor subconjunto encontrado: 4,417
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 4,12,13,20
+
+-----------------------------------------------------------
+
+	DecisionTable (Saída) - SBOX 5
+
+Número de regras: 10
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 130
+Mérito do melhor subconjunto encontrado: 4.619
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 20,21
+
+-----------------------------------------------------------
+	
+	DecisionTable (Saída) - SBOX 6
+
+Número de regras: 100
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 146
+Mérito do melhor subconjunto encontrado: 4.571
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 6,14,22
+
+-----------------------------------------------------------
+
+	DecisionTable (Saída) - SBOX 7
+
+Número de regras: 1000
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 206
+Mérito do melhor subconjunto encontrado: 4.553
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 7,15,16,23
+
+-----------------------------------------------------------
+
+	DecisionTable (Saída) - SBOX 8
+
+Número de regras: 1000
+Não correspondências cobertas pela classe de maioria.
+Melhor primeiro.
+Conjunto inicial: sem atributos
+Direção da pesquisa: para a frente
+Pesquisa obsoleta após 5 expansões de nós
+Número total de subconjuntos avaliados: 165
+Mérito do melhor subconjunto encontrado: 4.529
+Avaliação (para seleção de recursos): CV (deixe um de fora)
+Conjunto de recursos: 8,9,16,24
