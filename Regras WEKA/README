@@ -1,0 +1,19 @@
+Neste repositório estão disponibilizados os arquivos arff e os modelos e regras gerados por eles, através da utilização da ferramenta de aprendizagem WEKA.
+
+O reporisótio está dividido em quatro pastas, onde cada uma delas representa um dataset utilizado, são eles:
+
+  -GALS PIPELINE
+  -Sintético
+  -Secmatv1
+  -Secmatv3
+  
+Dentro de cada uma delas há os arquivos arff, modelos e regras gerados por cada um dos cinco algoritmos utilizados, são eles:
+
+  -DecicionTable
+  -M5P
+  -M5Rules
+  -RegressionByDiscretization
+  -REPTree
+  
+Os resultados foram obtidos através da ferramenta WEKA com a utilização do método de treinamento e teste Cross-validation, e com o seu parâmetro K igual a 10. E todos os algoritmos utilizados foram aplicados com seus parâmetros setados no padrão da ferramenta.
+  
